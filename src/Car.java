@@ -66,6 +66,6 @@ public class Car {
 	}
 
 	public void brake() {
-		speed += 5;
+		speed -= 5;
 	}
 }
